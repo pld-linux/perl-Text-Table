@@ -34,7 +34,7 @@ Organizowanie danych w postaci tabel jest szanuj±c± czas i przydatn±
 metod± reprezentacji danych. Kiedy kolumny danych s± trywialnie
 wygenerowane przez komputer poprzez sformatowane wyj¶cie, nawet proste
 zadania, takie jak utrzymywanie tytu³ów wyrównanych z kolumnami
-danych, nie s± trywialen, a dora¼ne rozwi±zania staj± siê trudne do
+danych, nie s± trywialne, a dora¼ne rozwi±zania staj± siê trudne do
 utrzymania. Text::Table pozwala na tworzenie i utrzymywanie tabel
 adaptuj±cych siê podczas u¿ywania do wymagañ dotycz±cych wyrównania.
 
