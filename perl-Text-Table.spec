@@ -8,13 +8,13 @@
 Summary:	Text::Table - Organize Data in Tables
 Summary(pl):	Text::Table - organizowanie danych w tabelach
 Name:		perl-Text-Table
-Version:	1.102
+Version:	1.107
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	2e067568a60f203f7b8d84ae8be38f49
+# Source0-md5:	e3dabd8dd6f0c299530ada5d03196723
 BuildRequires:	perl-Text-Aligner
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
