@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Text
-%define	pnam	Table
+%define		pdir	Text
+%define		pnam	Table
 Summary:	Text::Table - Organize Data in Tables
 Summary(pl):	Text::Table - organizowanie danych w tabelach
 Name:		perl-Text-Table
