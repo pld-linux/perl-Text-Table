@@ -6,7 +6,7 @@
 %define		pdir	Text
 %define		pnam	Table
 Summary:	Text::Table - Organize Data in Tables
-Summary(pl):	Text::Table - organizowanie danych w tabelach
+Summary(pl.UTF-8):   Text::Table - organizowanie danych w tabelach
 Name:		perl-Text-Table
 Version:	1.107
 Release:	1
@@ -29,14 +29,14 @@ solutions one comes up with tend to be particularly hard to maintain.
 Text::Table allows you to create and maintain tables that adapt to
 alignment requirements as you use them.
 
-%description -l pl
-Organizowanie danych w postaci tabel jest szanuj±c± czas i przydatn±
-metod± reprezentacji danych. Kiedy kolumny danych s± trywialnie
-wygenerowane przez komputer poprzez sformatowane wyj¶cie, nawet proste
-zadania, takie jak utrzymywanie tytu³ów wyrównanych z kolumnami
-danych, nie s± trywialne, a dora¼ne rozwi±zania staj± siê trudne do
+%description -l pl.UTF-8
+Organizowanie danych w postaci tabel jest szanujÄ…cÄ… czas i przydatnÄ…
+metodÄ… reprezentacji danych. Kiedy kolumny danych sÄ… trywialnie
+wygenerowane przez komputer poprzez sformatowane wyjÅ›cie, nawet proste
+zadania, takie jak utrzymywanie tytuÅ‚Ã³w wyrÃ³wnanych z kolumnami
+danych, nie sÄ… trywialne, a doraÅºne rozwiÄ…zania stajÄ… siÄ™ trudne do
 utrzymania. Text::Table pozwala na tworzenie i utrzymywanie tabel
-adaptuj±cych siê podczas u¿ywania do wymagañ dotycz±cych wyrównania.
+adaptujÄ…cych siÄ™ podczas uÅ¼ywania do wymagaÅ„ dotyczÄ…cych wyrÃ³wnania.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
