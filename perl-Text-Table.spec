@@ -9,7 +9,7 @@ Summary:	Text::Table - Organize Data in Tables
 Summary(pl.UTF-8):	Text::Table - organizowanie danych w tabelach
 Name:		perl-Text-Table
 Version:	1.107
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
