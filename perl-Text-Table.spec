@@ -4,7 +4,6 @@
 
 %define		pdir	Text
 %define		pnam	Table
-%include	/usr/lib/rpm/macros.perl
 Summary:	Text::Table - Organize Data in Tables
 Summary(pl.UTF-8):	Text::Table - organizowanie danych w tabelach
 Name:		perl-Text-Table
